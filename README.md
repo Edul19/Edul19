@@ -1,6 +1,6 @@
 
-# MayukhBaruah<h1 align="center">Hi 👋, I'm Mayukh Baruah</h1>
-<h3 align="center">A passionate AI/ML Developer from India</h3>
+# Edul Azahar <h1 align="center">Hi 👋, I'm Edul Azahar</h1>
+<h3 align="center">A passionate web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faitsrajampet.ac.in%2Fimages%2Fpdf%2Fai%2FArtificial-Intelligence-and-Machine-Learning.png&f=1&nofb=1&ipt=737c4119381a7a050d939ace3ff7f456555a0bb47e376031c10939bd24093b75&ipo=images">
 
 
