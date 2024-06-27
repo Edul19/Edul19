@@ -1,7 +1,7 @@
 
 # MayukhBaruah<h1 align="center">Hi 👋, I'm Mayukh Baruah</h1>
 <h3 align="center">A passionate AI/ML Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faitsrajampet.ac.in%2Fimages%2Fpdf%2Fai%2FArtificial-Intelligence-and-Machine-Learning.png&f=1&nofb=1&ipt=737c4119381a7a050d939ace3ff7f456555a0bb47e376031c10939bd24093b75&ipo=images">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayukhbaruah&label=Profile%20views&color=0e75b6&style=flat" alt="mayukhbaruah" /> </p>
